@@ -31,7 +31,7 @@ class GridDashboard extends StatelessWidget {
 
   );
   Items item6 = new Items(
-    title: "Settings",
+    title: "SETTINGS",
     subtitle: "",
     img: "assets/settings.png",
   );
